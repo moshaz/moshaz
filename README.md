@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moshaz
-- 👀 I’m interested in mobile app development, maybe a little bit of desktop and web development. 
-<!--- - 🌱 I’m currently learning --->
+- 👀 I’m interested in mobile app development, maybe a little bit of desktop and web development.
+- 🌱 I’m currently learning more about Flutter, and other cross-platform mobile development frameworks such as React Native (soon!)
 - 📫 How to reach me: 📧 m.shazreen@outlook.com
 
 <!---
